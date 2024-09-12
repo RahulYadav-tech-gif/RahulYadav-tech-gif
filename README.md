@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python, Django**
 
-- 👨‍💻 All of my projects are available at [https://github.com/RahulYadav-tech-gif](https://github.com/RahulYadav-tech-gif?tab=repositories)(https://github.com/RahulYadav-tech-gif?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/RahulYadav-tech-gif](https://github.com/RahulYadav-tech-gif?tab=repositories)
 
 - 📫 How to reach me **iamrahulgurjar99@gmail.com**
 
